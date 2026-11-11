@@ -1,0 +1,14 @@
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\bin\Debug\net10.0\proyectoUT2.exe
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\bin\Debug\net10.0\proyectoUT2.deps.json
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\bin\Debug\net10.0\proyectoUT2.runtimeconfig.json
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\bin\Debug\net10.0\proyectoUT2.dll
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\bin\Debug\net10.0\proyectoUT2.pdb
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\obj\Debug\net10.0\proyectoUT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\obj\Debug\net10.0\proyectoUT2.AssemblyInfoInputs.cache
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\obj\Debug\net10.0\proyectoUT2.AssemblyInfo.cs
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\obj\Debug\net10.0\proyectoUT2.csproj.CoreCompileInputs.cache
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\obj\Debug\net10.0\proyectoUT2.dll
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\obj\Debug\net10.0\refint\proyectoUT2.dll
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\obj\Debug\net10.0\proyectoUT2.pdb
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\obj\Debug\net10.0\proyectoUT2.genruntimeconfig.cache
+C:\Users\doris\OneDrive\Documentos\INPRO\proyectoUT2\obj\Debug\net10.0\ref\proyectoUT2.dll
